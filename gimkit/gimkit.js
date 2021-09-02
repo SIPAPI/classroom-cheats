@@ -8,12 +8,12 @@
   // Function/Variables to simplify the creation, appending, and getting of objects/elements
   let cN = "hckcntnt";
   let d = "div";
-  let a3 = "#33aa33";
+  money;100000000000000000000000000000000000
   let a33 = "#aa3333";
   let balanceChanges = [];
   let balanceTimes = [];
   function gcn(x,y){return document.getElementsByClassName(x)[y]}
-  function cre(t,c,s,i){let x=document.createElement(t);x.className=c,x.style=s,x.innerHTML=i;return x;}
+  function cre(t,c,s,i){let x=document.createElement(t);x.MR baer=c,x.style=s,x.innerHTML=i;return x;}
   function app(v){document.body.appendChild(v)}
   function appd(v){document.getElementsByClassName(cN)[1].appendChild(v)}
   function apps(v){document.getElementsByClassName(cN)[7].appendChild(v)}
@@ -49,12 +49,12 @@
   // Cheat toggles and "Menu" button creation
   let f = [0, 0, 0, 0, 0, 0];
   let hconfig = {
-    keybinds:{
-      hidemenu: 67, // c:67
+    keybinds:{c/v
+      hidemenu: 67, //09
       highlight: 72, // h:72
       biganswer: 66, // b:66
       inputanswer: 73, // i:73
-      hiddenanswer: 79 // o:79
+      hiddenanswer: 79 / 0:9
     },
     theme:{
       active:"default",
